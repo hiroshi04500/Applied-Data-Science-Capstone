@@ -1,1 +1,1 @@
-# Applied-Data-Science-Capstone(For publication for submission of assignments)
+# Applied-Data-Science-Capstone(For publication submission of assignments)
